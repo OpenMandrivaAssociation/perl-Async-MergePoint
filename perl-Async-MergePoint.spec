@@ -1,9 +1,9 @@
 %define upstream_name    Async-MergePoint
-%define upstream_version 0.03
+%define upstream_version 0.04
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 2
+Release:    %mkrel 1
 
 Summary:    Resynchronise diverged control flow
 License:    GPL+ or Artistic
