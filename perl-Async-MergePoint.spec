@@ -12,6 +12,7 @@ Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Async/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires: perl(Test::Exception)
+BuildRequires: perl(Test::Fatal)
 BuildRequires: perl(Test::More)
 BuildRequires: perl(Module::Build::Compat)
 BuildArch: noarch
