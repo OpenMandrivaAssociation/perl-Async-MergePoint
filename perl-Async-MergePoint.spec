@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	0.04
-Release:	2
+Release:	3
 
 Summary:	Resynchronise diverged control flow
 License:	GPL+ or Artistic
