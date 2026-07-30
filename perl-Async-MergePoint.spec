@@ -3,13 +3,13 @@
 
 Name:		perl-%{upstream_name}
 Version:	%{upstream_version}
-Release:	5
+Release:	1
 
 Summary:	Resynchronise diverged control flow
 License:	GPL+ or Artistic
 Group:		Development/Perl
 Url:		https://metacpan.org/dist/Async-MergePoint
-Source0:	https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Async-MergePoint-%{upstream_version}.tar.gz
+Source0:	https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Async-MergePoint-0.04.tar.gz
 
 BuildRequires:	make
 BuildRequires:	perl-devel
